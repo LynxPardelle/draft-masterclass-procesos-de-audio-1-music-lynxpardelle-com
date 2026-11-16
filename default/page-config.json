@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-procesos-de-audio-1.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Procesos de audio I: tiempo, dinámica y filtros | Lynx Pardelle",
+    "description": "Aprende a reconocer qué cambia cuando un efecto actúa sobre el espacio, el espectro o la dinámica de una señal. Escucha el efecto de cada procesador en una pista antes de combinarlos.",
+    "canonical": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-grabacion-voz.webp"
+    }
+  }
+}
