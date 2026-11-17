@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Procesos de audio I: tiempo, dinámica y filtros | Lynx Pardelle",
-    "description": "Aprende a reconocer qué cambia cuando un efecto actúa sobre el espacio, el espectro o la dinámica de una señal. Escucha el efecto de cada procesador en una pista antes de combinarlos.",
+    "title": "Masterclass de procesos de audio I con filtros y compresión | Lynx Pardelle",
+    "description": "Aprende a elegir reverb, delay, filtros, ecualización, compresión y limitación según lo que necesita cada señal. Masterclass de 2 a 3 horas.",
     "canonical": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-procesos-de-audio-1-r2-3da627377d6ad04c.webp",
+      "title": "Masterclass de procesos de audio I con filtros y compresión | Lynx Pardelle",
+      "description": "Aprende a elegir reverb, delay, filtros, ecualización, compresión y limitación según lo que necesita cada señal. Masterclass de 2 a 3 horas.",
+      "url": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/",
+      "imageAlt": "Compresores y ecualizadores de un rack de estudio."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de procesos de audio I con filtros y compresión | Lynx Pardelle",
+      "description": "Aprende a elegir reverb, delay, filtros, ecualización, compresión y limitación según lo que necesita cada señal. Masterclass de 2 a 3 horas.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-procesos-de-audio-1-r2-3da627377d6ad04c.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/#webpage",
+        "name": "Procesos de audio I: tiempo, dinámica y filtros",
+        "description": "Aprende a elegir reverb, delay, filtros, ecualización, compresión y limitación según lo que necesita cada señal. Masterclass de 2 a 3 horas.",
+        "url": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Procesos de audio I: tiempo, dinámica y filtros",
+        "description": "Aprende a elegir reverb, delay, filtros, ecualización, compresión y limitación según lo que necesita cada señal. Masterclass de 2 a 3 horas.",
+        "url": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-procesos-de-audio-1-r2-3da627377d6ad04c.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-procesos-de-audio-1.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
